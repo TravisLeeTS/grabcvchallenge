@@ -8,7 +8,7 @@ https://www.sighthound.com/products/cloud
 I'm trying to create a similar classification model based on Efficientnet from Google AI Blog (Champion of recent ImageNet challenge) and intend to create a recognition API in future.
 📚 Project page: https://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html
 📝 Paper: https://arxiv.org/abs/1905.11946
-🔤 Code (Coming soon!): https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet
+🔤 Code: https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet
 
 The Problem
 Given a dataset of distinct car images, can you automatically recognize the car model and make?
